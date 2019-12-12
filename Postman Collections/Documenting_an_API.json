@@ -15,7 +15,7 @@
       "request": {
         "method": "GET",
         "header": [],
-        "url": "https://postman-echo.com/get",
+        "url": "https://postman-echo.com/getadsfdasf",
         "description": "This is the request description. It **supports markdown** as well."
       },
       "response": []
